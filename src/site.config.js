@@ -5,13 +5,16 @@ export const SITE = {
   loginDomain: 'https://login.reimagebs.com',
   logo: '/logo.png',
   services: [
+    'Consultation',
+    'Business Funding',
     'Growth Foundation',
     'Full Scale System',
-    'Website Development',
     'Social Media Management',
+    'Website Development',
+    'AI Receptionist Phone',
+    'AI Web Receptionist Chatbot',
     'AI Automation',
-    'Consultation',
-    'Other'
+    'General Question'
   ]
 };
 
