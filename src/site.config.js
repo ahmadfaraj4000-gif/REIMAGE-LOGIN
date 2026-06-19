@@ -9,7 +9,6 @@ export const SITE = {
     'Business Funding',
     'Growth Foundation',
     'Full Scale System',
-    'Social Media Management',
     'Website Development',
     'Static Website + SEO',
     'Dynamic Website with QR & Status Page',
